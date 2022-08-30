@@ -1,3 +1,6 @@
+<img src="https://github-readme-stats.vercel.app/api?username=abhiOriginals&show_icons=true&theme=ocean_dark" width="400">
+<img src = "https://github-readme-streak-stats.herokuapp.com/?user=abhiOriginals&theme=dracula&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&stroke=DD94B7"
+/>
 <h1 align="center">Hi 👋, I'm ABHiSEK KAR</h1>
 <h3 align="center">A tech-enthusiast from India</h3>
 <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRRCgqE_hUBnFrHvPhkEG3EtBFHtsk3VNskRA&usqp=CAU" >
